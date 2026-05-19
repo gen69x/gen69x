@@ -70,3 +70,22 @@ I'm passionate about creating elegant, maintainable code that solves real-world 
 ⭐ If you find my work interesting, feel free to star my repositories and follow for more projects!
 
 **Let's build something amazing together!** 🚀
+- 📧 **Email**: Ready to connect!
+
+## 🎯 What I'm Looking For
+
+- Exciting open-source projects to contribute to
+- Collaboration opportunities with fellow developers
+- Roles that challenge me to grow and learn
+
+## 📚 My Philosophy
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+I'm passionate about creating elegant, maintainable code that solves real-world problems. Every project is an opportunity to learn and grow.
+
+---
+
+⭐ If you find my work interesting, feel free to star my repositories and follow for more projects!
+
+**Let's build something amazing together!** 🚀
